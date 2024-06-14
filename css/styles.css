@@ -30,6 +30,9 @@
 .bc-cloud{
     background-color: var(--cloud);
 }
+.c-navy-blue{
+    color: var(--navy-blue);
+}
 
 h1{
     font-family: Roboto,sans-serif;
@@ -71,7 +74,7 @@ h3{
     font-family: Roboto,sans-serif;
     font-size: 16px;
     font-weight: 500;
-    text-space: 2%;
+    letter-spacing: 0.02em;
     line-height: 24px;
 }
 .btn-text{
@@ -94,9 +97,9 @@ h3{
     font-family: Raleway,sans-serif;
     font-size: 18px;
     font-weight: 700;
-    text-space: 3%;
-    line-height: 21px;
-
+    letter-spacing: 0.03em;
+    line-height: 1.17;
+    text-transform: uppercase;
 }
 
 .no-underline{
@@ -107,10 +110,13 @@ h3{
 }
 
 .logo-c-1{
-    color: var(--iris);
+    color: var(--navy-blue);
 }
 
 .interactive:hover{
+    color: var(--ocean);
+}
+.interactive:focus{
     color: var(--ocean);
 }
 
