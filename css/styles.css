@@ -24,7 +24,7 @@
 .c-white{
     color: var(--white);
 }
-.c-iris{
+.col-iris{
     color: var(--iris);
 }
 .bc-cloud{
@@ -59,7 +59,7 @@ h3{
     font-family: Roboto,sans-serif;
     font-size: 16px;
     font-weight: 400;
-    text-space: 2%;
+    letter-spacing: 0.02em;
     line-height: 24px;
 }
 .small-text{
@@ -102,7 +102,7 @@ h3{
     text-transform: uppercase;
 }
 
-.no-underline{
+.nounderline{
     text-decoration: none;
 }
 .no-dot{
@@ -151,7 +151,7 @@ h3{
     margin-top: 72px;
 }
 
-.mr-76{
+.mar-r-76{
     margin-right: 76px;
 }
 
