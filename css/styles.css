@@ -30,6 +30,9 @@
 .col-iris{
     color: var(--iris);
 }
+.c-cloud{
+    color: var(--cloud);
+}
 .bc-cloud{
     background-color: var(--cloud);
 }
