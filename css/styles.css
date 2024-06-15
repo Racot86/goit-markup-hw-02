@@ -118,10 +118,6 @@ h3{
     list-style: none;
 }
 
-.logo-c-1{
-    color: var(--navy-blue);
-}
-
 .interactive:hover{
     color: var(--ocean);
 }
@@ -129,95 +125,12 @@ h3{
     color: var(--ocean);
 }
 
-.hero{
-    height: 600px;
-}
-
-.m-0{
-    margin: 0;
-}
-.p-0{
-    padding: 0;
-}
-.pl-156{
-    padding-left: 156px;
-}
-.pr-156{
-    padding-right: 156px;
-}
-
-.mt-8{
-    margin-top: 8px;
-}
-
-.mt-16{
-    margin-top: 16px;
-}
-.mt-48{
-    margin-top: 48px;
-}
-.mt-72{
-    margin-top: 72px;
-}
-
-.mr-76{
-    margin-right: 76px;
-}
-
-.pv-12{
-    padding-top: 12px;
-    padding-bottom: 12px;
-}
-.pv-100{
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-.pv-120{
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
-.w-496{
-    width: 496px;
-}
-.w-264{
-    width: 264px;
-}
-.w-full{
-    width: 100%;
-}
 .text-center{
     text-align: center;
 }
-.flex-horizontal{
-    display: flex;
-    flex-direction: row;
-}
 
-.psn-end{
-    margin-left: auto;
-}
 .font-style-normal{
     font-style: normal;
-}
-.flex-center-column{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.flex-center-row{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.flex-start-column{
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    justify-content: center;
 }
 
 .btn{
@@ -233,55 +146,9 @@ h3{
 .btn:focus{
     background-color: var(--ocean);
 }
-.gap-24{
-    gap: 24px;
-}
-.gap-40{
-    gap: 40px;
-}
 
-.team-card{
-    border-radius: 0 0 4px 4px;
-    box-shadow: 0 2px 1px 0 #2E2F4214,
-                0 1px 1px 0 #2E2F4229,
-                0 1px 6px 0 #2E2F4214;
-}
-.team-card h3{
-    width: 100%;
-    text-align: center;
-    margin: 32px 0 0 0;
-}
-.team-card p{
-    width: 100%;
-    text-align: center;
-    margin: 8px 0 32px 0;
-}
-.flex-wrap{
-    flex-wrap: wrap;
-}
 img{
     object-fit: cover;
 }
 
-.project-card h3{
-    margin: 32px 0 0 16px;
-}
-.project-card p{
-    margin: 8px 0 0 16px;
-}
-
-.project-card div{
-    width: 360px;
-    height: 120px;
-    border: 1px solid var(--corn-flower);
-    border-top-color: transparent;
-    margin: 0;
-    padding: 0;
-}
-.row-gap-48{
-    row-gap: 48px;
-}
-footer{
-    height: 312px;
-}
 
