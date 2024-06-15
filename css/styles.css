@@ -24,6 +24,9 @@
 .c-white{
     color: var(--white);
 }
+.bc-white{
+    background-color: var(--white);
+}
 .col-iris{
     color: var(--iris);
 }
