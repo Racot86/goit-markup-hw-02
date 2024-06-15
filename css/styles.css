@@ -135,7 +135,6 @@ h3{
 
 .btn{
     border: 0;
-    border-radius: 4px;
     background-color: var(--iris);
     color: var(--white);
     cursor: pointer;
